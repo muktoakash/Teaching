@@ -13,3 +13,20 @@ h2 {
 h3{
     color: #248232;
 }
+
+.parent {
+    display: flex;
+    gap: 5em;
+    /* grid-template-columns: 1fr 1fr;
+    column-gap: 1em; */
+}
+
+.teaching img {
+    width: 20em;
+    height: 15em;
+}
+
+.teaching figcaption {
+    font-size: xx-large;
+    font-weight: bold;
+}
