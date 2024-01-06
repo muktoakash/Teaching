@@ -30,3 +30,17 @@ h3{
     font-size: xx-large;
     font-weight: bold;
 }
+
+#mapBD {
+    margin-left: 3cm;
+}
+
+#gradImg {
+    vertical-align: middle;
+}
+
+#AvaRoli {
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 0.5cm;
+}
