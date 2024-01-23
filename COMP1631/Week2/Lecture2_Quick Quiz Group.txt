@@ -1,0 +1,57 @@
+Quick Quiz Group
+
+Ramanpreeet kaur
+Navdeep kaur
+Manjot Kaur
+komal
+Tabassum
+
+1. Quick Quiz:-
+	A. Select the sheet tabs
+	B. False
+
+2. Quick Quiz:-
+	A. Cascade- Layers the windows in an overlapping stack.
+	   Horizontal- expands the width of the windows to fill the screen and places them in a single column.
+	   Vertical- expands the height of the windows to fill the screen and places them in a single row.
+	   Tiled- resizes the height and width of windows to fill the screen in both horizontal and vertical directions like floor tiles.
+	B. True
+
+3. Quick Quiz:-
+	A. True
+	B. click any of the sheet tabs to ungroup the worksheets
+	C. Firtly, group the sheets before click on print option.
+	D. False
+  	E. True
+
+4. Quick Quiz:-
+	A. On one workbook, refer one same cell or range in different workseets is called 3-D reference.
+	B. False
+	C. True
+	D. True
+	E. False
+	F. wildcard
+
+5. Quick Quiz:-
+	A. True
+	B. External
+	C. Place the workbook file name in brackets and then list the worksheet group and cell reference.
+	D. True
+	E. False
+
+6. Quick Quiz:-
+	A. Hyperlink
+	B. False
+	C. Powerpoint, Excel, email addresses, websites, and PDF documents.
+
+7. Quick Quiz:-
+	A. True
+	B. False
+	C. True
+	D. Absolute
+	E. Local
+	F. False
+
+8. Quick Quiz:-
+	A. True
+	B. False

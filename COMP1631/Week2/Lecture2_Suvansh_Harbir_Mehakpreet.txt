@@ -1,0 +1,67 @@
+Name: Suvansh Sharma
+	Harbir Singh
+	Mehakpreet Singh
+
+Answer:1 First step in copying the worksheets to another workbook is to open both the workbooks and select the worksheet you want to copy.
+
+False
+
+Answer:2 Cascade, Vertical, Tiled, Horizontal.
+
+Answer:3 True
+
+Answer:4 True
+
+Answer:5 True
+
+Answer:6 Click the tab sheet that is not part of the group.and includes all the sheets in a workbook in order to click on the sheet tabs to ungroup the worksheets.
+
+Answer:7 Group the Sheets
+
+Answer:8 False
+
+Answer:9 True
+
+Answer:10 3D reference is the identical cell in order to the differenct worksheets to the same workbook.
+
+Answer:11 False
+
+Answer:12 True
+
+Answer:13 True 
+
+Answer:14 False
+
+Answer:15 wildcard
+
+Answer:16 True
+
+Answer:17 external
+
+Answer:18 place the file name in brackets and then list the worksheet group and cell to the reference identical to 3D reference.
+
+Answer:19 True
+
+Answer:20 False
+
+Answer:21 hyperlink
+
+Answer:22 False
+
+Answer:23 website, file on the desktop, text files, presentations, source the hyperlinks.
+
+Answer:24 True
+
+Answer:25 False
+
+Answer:26 True
+
+Answer:27 absolute
+
+Answer:28 Local
+
+Answer:29 False
+
+Answer:30 True
+
+Answer:31 False

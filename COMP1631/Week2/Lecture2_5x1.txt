@@ -1,0 +1,41 @@
+Lecture 2 - 
+Group Name - 5x1
+Group Members' Name: Anshdeep Singh, Jaime Rebolledo, Abhinavdeep Singh, Karanveer Singh, prabhjot Singh
+Ques. 1 - False
+
+Ques. 2 - True
+
+Ques. 3
+(a) - True 
+Answer: Click the sheet tab of a worksheet that is not part of the group. If a worksheet group includes all of the sheets in a workbook, click any of the sheet tabs to ungroup the worksheets.)
+
+(b) - False 
+Answer: Group the sheets to be printed.
+
+(c) - True
+
+Ques. 4 - 
+(a) - False
+(b) - True 
+(c) - True
+(d) - False
+
+Ques. 5 -
+(a) - True
+(b) - True
+(c) - False
+
+Ques. 6 - 
+(a) - hyperlink
+(b) - False
+(c) - Websites; files on your computer in Word documents, PowerPoint presentations, text files, and PDF documents; cells and cell ranges within the current workbook; email addresses; new documents created specifically as the source of the hyperlink
+
+Ques. 7 - 
+(a) - True
+(b) - False
+(c) - True
+(d) - False
+
+Ques. 8 - 
+(a) - True
+(b) - False
