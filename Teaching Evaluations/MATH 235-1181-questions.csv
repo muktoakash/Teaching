@@ -1,0 +1,24 @@
+Question Title,Question Ref. ID,Question Text,Calculated Average,Calculated Std.,Option 0 Label,Option 0 selections,Option 1 Label,Option 1 selections,Option 2 Label,Option 2 selections,Option 3 Label,Option 3 selections,Option 4 Label,Option 4 selections,Option 5 Label,Option 5 selections,Option 6 Label,Option 6 selections,Option 7 Label,Option 7 selections,Option 8 Label,Option 8 selections,Option 9 Label,Option 9 selections
+Organization,177,Evaluate the organization and coherence of the lectures:,4.354166666666667,0.7852248176060136,Excellent,24,Good,19,Satisfactory,3,Unsatisfactory,2,Very poor,0,No opinion,3
+Explanations,178,At what levels were the instructor's explanations aimed?:,4.5625,0.769256341637127,Too high,2,Somewhat too high,11,Just Right,33,Somewhat too low,2,Too low,0,No opinion,3
+Questions,179,Evaluate the instructor's treatment of students' questions:,4.2727272727272725,0.8453329153910615,Excellent,21,Good,16,Satisfactory,5,Unsatisfactory,2,Very poor,0,No opinion,6
+Visual Presentation,180,"Evaluate the effectiveness of the instructor's visual presentation (blackboard, overheads, etc.):",4.204081632653061,1.040424429354328,Excellent,26,Good,11,Satisfactory,10,Unsatisfactory,0,Very poor,2,No opinion,2
+Oral Presentation,181,Evaluate the effectiveness of the instructor's oral presentation:,4.346938775510204,0.778647877417516,Excellent,25,Good,17,Satisfactory,6,Unsatisfactory,1,Very poor,0,No opinion,2
+Availability,182,Was the instructor available for help outside of class?:,4.486486486486487,0.7311186870368822,Available,22,Usually available,12,Sometimes available,2,Rarely available,1,Unavailable,0,Did not seek help,13
+Ability to hold Interest,184,Did you find the course interesting?,3.6444444444444444,1.0478453120474405,Very interesting,16,Interesting,26,Not interesting,3,No opinion,6
+Effectiveness,185,Evaluate the overall effectiveness of the instructor as a teacher:,4.25531914893617,0.9433539864524779,Excellent,22,Good,19,Satisfactory,4,Unsatisfactory,0,Very poor,2,No opinion,3
+Attendance,187,What proportion of lectures did you attend in this course?,73.72549019607843,27.907761236883584,90-100%,29,75-90%,13,50-75%,3,25-50%,1,<25%,5
+Assigned Work,188,"Was the assigned work (assignments, projects, etc.) helpful in learning the course content?",4.1568627450980395,1.0270842033564305,Very helpful,30,Helpful,20,Not helpful,1,No work assigned,0
+Printed Notes,189,Were the printed notes (if any) helpful in learning the course content?,4.035714285714286,1.0708993401928106,Very helpful,15,Helpful,12,Not helpful,1,No printed notes,23
+Textbook,190,Was the required textbook (if any) helpful in learning the course content?,4.326086956521739,0.9900470881301433,Very helpful,31,Helpful,14,Not helpful,1,No text required,4
+New Material,191,Did the course introduce an appropriate amount of new material?,4.510204081632653,0.8446510369079415,Too much,3,Somewhat too much,11,Right amount,33,Somewhat too little,2,Too little,0,No opinion,1
+Assigned Work Amount,192,Was the amount of assigned work required for the course appropriate?,4.56,0.8369039151929606,Too much,3,Somewhat too much,9,Right amount,36,Somewhat too little,2,Too little,0,No opinion,1
+Hours Per Week,193,"On average, how many hours per week did you spend on this course outside of lectures?",6.696078431372549,3.003462054650515,0-2 hours,0,3-6 hours,29,7-10 hours,18,11-15 houts,2,> 15 hours,2
+Metrics
+Metric Title,Metric Description,Metric Value,Metric Calculation
+Tompa Score,Computed Tompa Score (also acts as evaluate prof score),4.238885282975999,(@avg(177)*0.8+@avg(188)*0.2)*0.25 + ((@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0)*0.25 + (@avg(184)*0.2+@avg(185)*0.8)*0.5
+Effectiveness,Computed effectiveness score,4.133144208037825,@avg(184)*0.2+@avg(185)*0.8
+Delivery,Computed delivery score,4.374546833475405,(@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0
+Prep,Computed prep score,4.314705882352942,@avg(177)*0.8+@avg(188)*0.2
+Attendance Percentage,Average response for attendance,73.72549019607843,@avg(187)
+Hours/Week,Average time spent per week on work,6.696078431372549,@avg(193)

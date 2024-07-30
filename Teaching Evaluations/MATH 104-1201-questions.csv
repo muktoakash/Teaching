@@ -1,0 +1,20 @@
+Question Title,Question Ref. ID,Question Text,Calculated Average,Calculated Std.,Option 0 Label,Option 0 selections,Option 1 Label,Option 1 selections,Option 2 Label,Option 2 selections,Option 3 Label,Option 3 selections,Option 4 Label,Option 4 selections,Option 5 Label,Option 5 selections,Option 6 Label,Option 6 selections,Option 7 Label,Option 7 selections,Option 8 Label,Option 8 selections,Option 9 Label,Option 9 selections
+Respect,228,The instructor related to students in way that promoted mutual respect.,4.5,0.5270462766947299,Strongly Disagree,0,Disagree,0,Neutral,0,Agree,5,Strongly Agree,5
+Explanations,229,The instructor's explanations were clear and understandable.,4.0,1.0540925533894598,Strongly Disagree,0,Disagree,1,Neutral,2,Agree,3,Strongly Agree,4
+Helpfulness,230,The instructor was helpful to students seeking assistance.,4.636363636363637,0.5045249791095129,Strongly Disagree,0,Disagree,0,Neutral,0,Agree,4,Strongly Agree,7
+Instructor Overall,231,"Overall, I learned a great deal from the instructor.",4.2,0.7888106377466155,Strongly Disagree,0,Disagree,0,Neutral,2,Agree,4,Strongly Agree,4
+Organization,216,Course materials were presented in an organised manner.,4.363636363636363,0.504524979109513,Strongly Disagree,0,Disagree,0,Neutral,0,Agree,7,Strongly Agree,4
+Clear Expectations,217,Expectations for learning were clearly communicated.,4.363636363636363,0.674199862463242,Strongly Disagree,0,Disagree,0,Neutral,1,Agree,5,Strongly Agree,5
+Content Usefulness,218,"The assignments, activities, and content helped me achieve the stated learning objectives.",4.2727272727272725,0.6466697906828633,Strongly Disagree,0,Disagree,0,Neutral,1,Agree,6,Strongly Agree,4
+Assignment Value,219,The assignments contributed to my learning.,4.363636363636363,0.674199862463242,Strongly Disagree,0,Disagree,0,Neutral,1,Agree,5,Strongly Agree,5
+Feedback,220,Feedback on course assignments contributed to my learning.,4.0,1.0,Strongly Disagree,0,Disagree,1,Neutral,2,Agree,4,Strongly Agree,4
+Use of Technology,221,Technology was used effectively for learning in the course.,4.363636363636363,0.8090398349558904,Strongly Disagree,0,Disagree,0,Neutral,2,Agree,3,Strongly Agree,6
+Learning Climate,222,The general climate in the course was good for learning.,4.0,1.0,Strongly Disagree,0,Disagree,1,Neutral,2,Agree,4,Strongly Agree,4
+Course Overall,223,"Overall, I learned a great deal from this course.",4.2727272727272725,0.6466697906828633,Strongly Disagree,0,Disagree,0,Neutral,1,Agree,6,Strongly Agree,4
+Expected Grade,224,What grade do you expect in this course?,85.9090909090909,5.393598899705937,Below 50,0,50-60,0,60-70,0,70-80,1,80-90,8,Above 90,2
+Required or Elective,225,"Is this course required, or an elective?",0.45454545454545453,0.5222329678670934,Required,5,Elective,6
+Workload,226,"On average, I spent X hours per week working on this course:",7.454545454545454,4.3672333659569045,Much less than 10 hours,2,Less than 10 hours,3,Around 10 hours,5,More than 10 hours,1,Much more than 10 hours,0
+Metrics
+Metric Title,Metric Description,Metric Value,Metric Calculation
+Course Score,Overall Course Score,4.2727272727272725,@avg(223)
+Prof Score,Overall instructor score,4.2,@avg(231)

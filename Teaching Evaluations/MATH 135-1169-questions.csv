@@ -1,0 +1,24 @@
+Question Title,Question Ref. ID,Question Text,Calculated Average,Calculated Std.,Option 0 Label,Option 0 selections,Option 1 Label,Option 1 selections,Option 2 Label,Option 2 selections,Option 3 Label,Option 3 selections,Option 4 Label,Option 4 selections,Option 5 Label,Option 5 selections,Option 6 Label,Option 6 selections,Option 7 Label,Option 7 selections,Option 8 Label,Option 8 selections,Option 9 Label,Option 9 selections
+Organization,177,Evaluate the organization and coherence of the lectures:,4.290322580645161,0.6925098500910425,Excellent,13,Good,14,Satisfactory,4,Unsatisfactory,0,Very poor,0,No opinion,0
+Explanations,178,At what levels were the instructor's explanations aimed?:,4.40625,0.7975516971817058,Too high,2,Somewhat too high,13,Just Right,17,Somewhat too low,0,Too low,0,No opinion,0
+Questions,179,Evaluate the instructor's treatment of students' questions:,4.34375,0.8654432017665117,Excellent,18,Good,8,Satisfactory,5,Unsatisfactory,1,Very poor,0,No opinion,0
+Visual Presentation,180,"Evaluate the effectiveness of the instructor's visual presentation (blackboard, overheads, etc.):",4.34375,0.7873751821205408,Excellent,16,Good,12,Satisfactory,3,Unsatisfactory,1,Very poor,0,No opinion,0
+Oral Presentation,181,Evaluate the effectiveness of the instructor's oral presentation:,4.34375,0.745280852019624,Excellent,16,Good,11,Satisfactory,5,Unsatisfactory,0,Very poor,0,No opinion,0
+Availability,182,Was the instructor available for help outside of class?:,4.28,0.7916228058025279,Available,12,Usually available,8,Sometimes available,5,Rarely available,0,Unavailable,0,Did not seek help,6
+Ability to hold Interest,184,Did you find the course interesting?,3.34375,1.1247759633553411,Very interesting,9,Interesting,16,Not interesting,7,No opinion,0
+Effectiveness,185,Evaluate the overall effectiveness of the instructor as a teacher:,4.1875,0.895778630487862,Excellent,13,Good,14,Satisfactory,4,Unsatisfactory,0,Very poor,1,No opinion,0
+Attendance,187,What proportion of lectures did you attend in this course?,80.80645161290323,19.497725260208707,90-100%,22,75-90%,5,50-75%,3,25-50%,0,<25%,1
+Assigned Work,188,"Was the assigned work (assignments, projects, etc.) helpful in learning the course content?",3.7096774193548385,1.1602743464973209,Very helpful,13,Helpful,14,Not helpful,4,No work assigned,0
+Printed Notes,189,Were the printed notes (if any) helpful in learning the course content?,4.0,1.1055415967851334,Very helpful,10,Helpful,8,Not helpful,1,No printed notes,9
+Textbook,190,Was the required textbook (if any) helpful in learning the course content?,3.6333333333333333,0.9994251221140297,Very helpful,10,Helpful,19,Not helpful,1,No text required,1
+New Material,191,Did the course introduce an appropriate amount of new material?,3.84375,1.1670026397957816,Too much,8,Somewhat too much,13,Right amount,11,Somewhat too little,0,Too little,0,No opinion,0
+Assigned Work Amount,192,Was the amount of assigned work required for the course appropriate?,4.28125,0.9240295694193397,Too much,3,Somewhat too much,12,Right amount,16,Somewhat too little,1,Too little,0,No opinion,0
+Hours Per Week,193,"On average, how many hours per week did you spend on this course outside of lectures?",9.112903225806452,3.609500605853379,0-2 hours,0,3-6 hours,8,7-10 hours,13,11-15 houts,8,> 15 hours,2
+Metrics
+Metric Title,Metric Description,Metric Value,Metric Calculation
+Tompa Score,Computed Tompa Score (also acts as evaluate prof score),4.138798387096774,(@avg(177)*0.8+@avg(188)*0.2)*0.25 + ((@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0)*0.25 + (@avg(184)*0.2+@avg(185)*0.8)*0.5
+Effectiveness,Computed effectiveness score,4.01875,@avg(184)*0.2+@avg(185)*0.8
+Delivery,Computed delivery score,4.343500000000001,(@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0
+Prep,Computed prep score,4.174193548387096,@avg(177)*0.8+@avg(188)*0.2
+Attendance Percentage,Average response for attendance,80.80645161290323,@avg(187)
+Hours/Week,Average time spent per week on work,9.112903225806452,@avg(193)

@@ -1,0 +1,24 @@
+Question Title,Question Ref. ID,Question Text,Calculated Average,Calculated Std.,Option 0 Label,Option 0 selections,Option 1 Label,Option 1 selections,Option 2 Label,Option 2 selections,Option 3 Label,Option 3 selections,Option 4 Label,Option 4 selections,Option 5 Label,Option 5 selections,Option 6 Label,Option 6 selections,Option 7 Label,Option 7 selections,Option 8 Label,Option 8 selections,Option 9 Label,Option 9 selections
+Organization,177,Evaluate the organization and coherence of the lectures:,4.2631578947368425,0.6533762964749498,Excellent,7,Good,10,Satisfactory,2,Unsatisfactory,0,Very poor,0,No opinion,0
+Explanations,178,At what levels were the instructor's explanations aimed?:,4.555555555555555,0.6156987634551992,Too high,0,Somewhat too high,6,Just Right,11,Somewhat too low,1,Too low,0,No opinion,1
+Questions,179,Evaluate the instructor's treatment of students' questions:,4.0,0.816496580927726,Excellent,5,Good,10,Satisfactory,3,Unsatisfactory,1,Very poor,0,No opinion,0
+Visual Presentation,180,"Evaluate the effectiveness of the instructor's visual presentation (blackboard, overheads, etc.):",4.315789473684211,0.7492686492653552,Excellent,9,Good,7,Satisfactory,3,Unsatisfactory,0,Very poor,0,No opinion,0
+Oral Presentation,181,Evaluate the effectiveness of the instructor's oral presentation:,4.2105263157894735,0.7873265148181359,Excellent,8,Good,7,Satisfactory,4,Unsatisfactory,0,Very poor,0,No opinion,0
+Availability,182,Was the instructor available for help outside of class?:,4.2,0.6324555320336759,Available,3,Usually available,6,Sometimes available,1,Rarely available,0,Unavailable,0,Did not seek help,7
+Ability to hold Interest,184,Did you find the course interesting?,3.0,0.816496580927726,Very interesting,2,Interesting,13,Not interesting,4,No opinion,0
+Effectiveness,185,Evaluate the overall effectiveness of the instructor as a teacher:,4.157894736842105,0.6882472016116855,Excellent,6,Good,10,Satisfactory,3,Unsatisfactory,0,Very poor,0,No opinion,0
+Attendance,187,What proportion of lectures did you attend in this course?,82.89473684210526,20.837718836662265,90-100%,15,75-90%,3,50-75%,0,25-50%,0,<25%,1
+Assigned Work,188,"Was the assigned work (assignments, projects, etc.) helpful in learning the course content?",4.111111111111111,1.0226199851298272,Very helpful,10,Helpful,8,Not helpful,0,No work assigned,0
+Printed Notes,189,Were the printed notes (if any) helpful in learning the course content?,3.2222222222222223,0.6666666666666669,Very helpful,1,Helpful,8,Not helpful,0,No printed notes,8
+Textbook,190,Was the required textbook (if any) helpful in learning the course content?,3.933333333333333,1.2227992865708153,Very helpful,8,Helpful,5,Not helpful,2,No text required,1
+New Material,191,Did the course introduce an appropriate amount of new material?,4.722222222222222,0.46088859896247697,Too much,0,Somewhat too much,5,Right amount,13,Somewhat too little,0,Too little,0,No opinion,1
+Assigned Work Amount,192,Was the amount of assigned work required for the course appropriate?,4.882352941176471,0.3321055820775359,Too much,0,Somewhat too much,2,Right amount,15,Somewhat too little,0,Too little,0,No opinion,1
+Hours Per Week,193,"On average, how many hours per week did you spend on this course outside of lectures?",4.184210526315789,2.0963627649109933,0-2 hours,4,3-6 hours,13,7-10 hours,2,11-15 houts,0,> 15 hours,0
+Metrics
+Metric Title,Metric Description,Metric Value,Metric Calculation
+Tompa Score,Computed Tompa Score (also acts as evaluate prof score),4.085438596491228,(@avg(177)*0.8+@avg(188)*0.2)*0.25 + ((@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0)*0.25 + (@avg(184)*0.2+@avg(185)*0.8)*0.5
+Effectiveness,Computed effectiveness score,3.9263157894736844,@avg(184)*0.2+@avg(185)*0.8
+Delivery,Computed delivery score,4.256374269005848,(@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0
+Prep,Computed prep score,4.2327485380116965,@avg(177)*0.8+@avg(188)*0.2
+Attendance Percentage,Average response for attendance,82.89473684210526,@avg(187)
+Hours/Week,Average time spent per week on work,4.184210526315789,@avg(193)

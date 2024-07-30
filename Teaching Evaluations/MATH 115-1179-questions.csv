@@ -1,0 +1,21 @@
+Question Title,Question Ref. ID,Question Text,Calculated Average,Calculated Std.,Option 0 Label,Option 0 selections,Option 1 Label,Option 1 selections,Option 2 Label,Option 2 selections,Option 3 Label,Option 3 selections,Option 4 Label,Option 4 selections,Option 5 Label,Option 5 selections,Option 6 Label,Option 6 selections,Option 7 Label,Option 7 selections,Option 8 Label,Option 8 selections,Option 9 Label,Option 9 selections
+Q1,54,Rate your professor's presentation of lectures in terms of organization and clarity.,4.604591836734694,0.7312285501195872,(A) Organized,71,(B),25,(C),0,(D),2,(E) Disorganized,0
+Q2,55,How would you rate the professor's response to questions?,4.4770408163265305,0.8404149799492145,(A) Clear,65,(B),27,(C),4,(D),2,(E) Vague,0
+Q3,56,"Rate your professor's oral presentation in terms of audibility, articulation, and your ability to understand his/her English.",4.668367346938775,0.7302163129272404,(A) Excellent,77,(B),18,(C),1,(D),2,(E) Unacceptable,0
+Q4,57,"Rate your professor's visual presentation. Consider organization, legibility and effective use of materials (blackboard, electronic media, etc.).",4.464285714285714,0.8608015923796258,(A) Excellent,65,(B),26,(C),5,(D),2,(E) Unacceptable,0
+Q5,58,Describe the availability and approachability of your professor outside of class compared to other courses you've taken at university. (Do not answer if you did not seek help.).,4.264705882352941,0.9412913532826621,(A) Volunteering assistance with pleasure,28,(B),17,(C),5,(D),1,(E) Discouraging out-of-class contact,0
+Q6,59,"At what level were the professor's explanations usually directed, in relation to your general level of understanding? *Note that (C) is the best rating",4.072164948453608,1.2536191164684989,(A) Far too high,2,(B),30,(C),62,(D),3,(E) Far too low	,0
+Q7,60,"Were students encouraged by the professor to think and reason logically and objectively on their own, about the subject matter? ",4.260204081632653,0.9967203741837856,(A) A great deal,56,(B),29,(C),10,(D),3,(E) Not at all,0
+Q8,61,What was your impression of your professor's attitude towards teaching the course?,4.61734693877551,0.6813079462092394,(A) Obviously enthusiastic & responsible,72,(B),22,(C),4,(D),0,(E) Views teaching as an imposition,0
+Q9,62,Describe your professor-class relationship?,4.548969072164948,0.8304422573445459,(A) Friendly & open,71,(B),18,(C),7,(D),1,(E) Mutual dislike,0
+Q10,63,What is your overall appraisal of the quality of teaching in this course?,4.471649484536083,0.740281028298785,(A) Very high,60,(B),34,(C),2,(D),1,(E) Very Low	,0
+Q11,65,Rate the difficulty of the concepts covered by this course. *Note that (C) is the best rating,3.4278350515463916,1.3292378978855737,(A) Very Easy,0,(B),19,(C),39,(D),33,(E) Very Difficult,6
+Q12,66,Rate the workload required to complete this course. *Note that (C) is the best rating,3.710526315789474,1.3330475150914904,(A) Very little,2,(B),12,(C),48,(D),31,(E) Very heavy,2
+Q13,67,How useful was the textbook (or reading materials) for understanding of the concepts?,3.4693877551020407,1.496673849234541,(A) Very useful,36,(B),26,(C),17,(D),16,(E) Totally useless,3
+Q14,68,To what extent did the assignments contribute to your better understanding of the concepts.,3.9973958333333335,1.0671499128067752,(A) Very useful,43,(B),32,(C),18,(D),3,(E) Totally useless,0
+Q15,69,How well did the tests reflect the course material?,4.0688775510204085,1.1253754311963329,(A) Very closely,49,(B),30,(C),15,(D),3,(E) Not at all,1
+Q16,70,How valuable do you feel tutorials are (or would be) in the instruction of this course?,3.949468085106383,1.2473519193870042,(A) Very valuable,44,(B),30,(C),13,(D),5,(E) Not valuable at all,2
+Q17,71,What is your overall appraisal of this course?,4.260204081632653,0.8193207893489932,(A) Excellent,48,(B),43,(C),6,(D),1,(E) Poor,0
+Q18,72,How many classes did you attend?,4.591836734693878,0.7351517788988161,(A) All classes attended,72,(B),20,(C),6,(D),0,(E) No classes attended,0
+Metrics
+Metric Title,Metric Description,Metric Value,Metric Calculation

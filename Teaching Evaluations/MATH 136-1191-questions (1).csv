@@ -1,0 +1,24 @@
+Question Title,Question Ref. ID,Question Text,Calculated Average,Calculated Std.,Option 0 Label,Option 0 selections,Option 1 Label,Option 1 selections,Option 2 Label,Option 2 selections,Option 3 Label,Option 3 selections,Option 4 Label,Option 4 selections,Option 5 Label,Option 5 selections,Option 6 Label,Option 6 selections,Option 7 Label,Option 7 selections,Option 8 Label,Option 8 selections,Option 9 Label,Option 9 selections
+Organization,177,Evaluate the organization and coherence of the lectures:,3.7049180327868854,1.1006704365231517,Excellent,16,Good,22,Satisfactory,15,Unsatisfactory,5,Very poor,3,No opinion,1
+Explanations,178,At what levels were the instructor's explanations aimed?:,4.288135593220339,0.8719942948569122,Too high,3,Somewhat too high,27,Just Right,27,Somewhat too low,1,Too low,1,No opinion,3
+Questions,179,Evaluate the instructor's treatment of students' questions:,4.033898305084746,0.909074969309278,Excellent,21,Good,23,Satisfactory,11,Unsatisfactory,4,Very poor,0,No opinion,3
+Visual Presentation,180,"Evaluate the effectiveness of the instructor's visual presentation (blackboard, overheads, etc.):",3.7704918032786887,1.0861774352126023,Excellent,20,Good,16,Satisfactory,17,Unsatisfactory,7,Very poor,1,No opinion,1
+Oral Presentation,181,Evaluate the effectiveness of the instructor's oral presentation:,3.80327868852459,1.0617543992711231,Excellent,19,Good,20,Satisfactory,14,Unsatisfactory,7,Very poor,1,No opinion,1
+Availability,182,Was the instructor available for help outside of class?:,4.5,0.6154574548966637,Available,19,Usually available,13,Sometimes available,2,Rarely available,0,Unavailable,0,Did not seek help,27
+Ability to hold Interest,184,Did you find the course interesting?,2.8214285714285716,0.7653197277702211,Very interesting,4,Interesting,34,Not interesting,18,No opinion,5
+Effectiveness,185,Evaluate the overall effectiveness of the instructor as a teacher:,3.7333333333333334,1.022901600162899,Excellent,13,Good,28,Satisfactory,11,Unsatisfactory,6,Very poor,2,No opinion,2
+Attendance,187,What proportion of lectures did you attend in this course?,72.5,27.808363575474242,90-100%,35,75-90%,11,50-75%,5,25-50%,5,<25%,4
+Assigned Work,188,"Was the assigned work (assignments, projects, etc.) helpful in learning the course content?",3.3454545454545452,1.1420932993311461,Very helpful,16,Helpful,26,Not helpful,13,No work assigned,6
+Printed Notes,189,Were the printed notes (if any) helpful in learning the course content?,3.6842105263157894,1.1878953261260643,Very helpful,16,Helpful,16,Not helpful,6,No printed notes,22
+Textbook,190,Was the required textbook (if any) helpful in learning the course content?,3.8679245283018866,1.110054327309749,Very helpful,25,Helpful,24,Not helpful,4,No text required,8
+New Material,191,Did the course introduce an appropriate amount of new material?,4.180327868852459,1.040964244043498,Too much,7,Somewhat too much,23,Right amount,29,Somewhat too little,1,Too little,1,No opinion,1
+Assigned Work Amount,192,Was the amount of assigned work required for the course appropriate?,4.559322033898305,0.9517893573228453,Too much,4,Somewhat too much,8,Right amount,45,Somewhat too little,1,Too little,1,No opinion,3
+Hours Per Week,193,"On average, how many hours per week did you spend on this course outside of lectures?",7.680327868852459,3.9211316254422934,0-2 hours,1,3-6 hours,29,7-10 hours,18,11-15 houts,8,> 15 hours,5
+Metrics
+Metric Title,Metric Description,Metric Value,Metric Calculation
+Tompa Score,Computed Tompa Score (also acts as evaluate prof score),3.703522743811713,(@avg(177)*0.8+@avg(188)*0.2)*0.25 + ((@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0)*0.25 + (@avg(184)*0.2+@avg(185)*0.8)*0.5
+Effectiveness,Computed effectiveness score,3.5509523809523813,@avg(184)*0.2+@avg(185)*0.8
+Delivery,Computed delivery score,4.079160878021673,(@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0
+Prep,Computed prep score,3.6330253353204176,@avg(177)*0.8+@avg(188)*0.2
+Attendance Percentage,Average response for attendance,72.5,@avg(187)
+Hours/Week,Average time spent per week on work,7.680327868852459,@avg(193)

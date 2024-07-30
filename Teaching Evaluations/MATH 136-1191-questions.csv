@@ -1,0 +1,24 @@
+Question Title,Question Ref. ID,Question Text,Calculated Average,Calculated Std.,Option 0 Label,Option 0 selections,Option 1 Label,Option 1 selections,Option 2 Label,Option 2 selections,Option 3 Label,Option 3 selections,Option 4 Label,Option 4 selections,Option 5 Label,Option 5 selections,Option 6 Label,Option 6 selections,Option 7 Label,Option 7 selections,Option 8 Label,Option 8 selections,Option 9 Label,Option 9 selections
+Organization,177,Evaluate the organization and coherence of the lectures:,3.8205128205128207,0.8544556553365258,Excellent,7,Good,21,Satisfactory,9,Unsatisfactory,1,Very poor,1,No opinion,1
+Explanations,178,At what levels were the instructor's explanations aimed?:,4.256410256410256,0.9925498454392664,Too high,0,Somewhat too high,15,Just Right,19,Somewhat too low,3,Too low,2,No opinion,1
+Questions,179,Evaluate the instructor's treatment of students' questions:,3.948717948717949,0.9444775205237173,Excellent,12,Good,16,Satisfactory,9,Unsatisfactory,1,Very poor,1,No opinion,1
+Visual Presentation,180,"Evaluate the effectiveness of the instructor's visual presentation (blackboard, overheads, etc.):",3.6666666666666665,0.9551338658818385,Excellent,7,Good,17,Satisfactory,11,Unsatisfactory,3,Very poor,1,No opinion,1
+Oral Presentation,181,Evaluate the effectiveness of the instructor's oral presentation:,3.6923076923076925,1.004040420497055,Excellent,8,Good,16,Satisfactory,12,Unsatisfactory,1,Very poor,2,No opinion,1
+Availability,182,Was the instructor available for help outside of class?:,3.8,1.151657843924872,Available,6,Usually available,8,Sometimes available,3,Rarely available,2,Unavailable,1,Did not seek help,19
+Ability to hold Interest,184,Did you find the course interesting?,2.8684210526315788,0.8752158847679885,Very interesting,4,Interesting,21,Not interesting,13,No opinion,2
+Effectiveness,185,Evaluate the overall effectiveness of the instructor as a teacher:,3.6,0.9818872461248106,Excellent,5,Good,21,Satisfactory,9,Unsatisfactory,3,Very poor,2,No opinion,0
+Attendance,187,What proportion of lectures did you attend in this course?,76.9047619047619,24.839788620727347,90-100%,27,75-90%,8,50-75%,4,25-50%,0,<25%,3
+Assigned Work,188,"Was the assigned work (assignments, projects, etc.) helpful in learning the course content?",3.289473684210526,1.0373535647057284,Very helpful,9,Helpful,22,Not helpful,7,No work assigned,4
+Printed Notes,189,Were the printed notes (if any) helpful in learning the course content?,3.5652173913043477,0.9920633665850975,Very helpful,7,Helpful,15,Not helpful,1,No printed notes,18
+Textbook,190,Was the required textbook (if any) helpful in learning the course content?,4.090909090909091,1.1001033009346315,Very helpful,19,Helpful,12,Not helpful,2,No text required,9
+New Material,191,Did the course introduce an appropriate amount of new material?,4.121951219512195,1.004866208786511,Too much,6,Somewhat too much,18,Right amount,17,Somewhat too little,0,Too little,0,No opinion,1
+Assigned Work Amount,192,Was the amount of assigned work required for the course appropriate?,4.575,0.7807787039970954,Too much,2,Somewhat too much,9,Right amount,28,Somewhat too little,1,Too little,0,No opinion,2
+Hours Per Week,193,"On average, how many hours per week did you spend on this course outside of lectures?",6.404761904761905,3.6228241497451643,0-2 hours,5,3-6 hours,19,7-10 hours,13,11-15 houts,4,> 15 hours,1
+Metrics
+Metric Title,Metric Description,Metric Value,Metric Calculation
+Tompa Score,Computed Tompa Score (also acts as evaluate prof score),3.623623481781377,(@avg(177)*0.8+@avg(188)*0.2)*0.25 + ((@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0)*0.25 + (@avg(184)*0.2+@avg(185)*0.8)*0.5
+Effectiveness,Computed effectiveness score,3.4536842105263164,@avg(184)*0.2+@avg(185)*0.8
+Delivery,Computed delivery score,3.8728205128205127,(@avg(178)+@avg(179)+@avg(180)+@avg(181)+@avg(182))/5.0
+Prep,Computed prep score,3.714304993252362,@avg(177)*0.8+@avg(188)*0.2
+Attendance Percentage,Average response for attendance,76.9047619047619,@avg(187)
+Hours/Week,Average time spent per week on work,6.404761904761905,@avg(193)
