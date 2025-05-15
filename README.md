@@ -5,22 +5,30 @@
 ### List of Courses Taught
 | Year | Winter | Spring | Fall |
 | --- | ------- | ------ | ---- |
-|2025 | N/A | MATH73235    |     |
+|2025 | N/A | __MATH73235__    |     |
 |2024 | COMP1631 | N/A | N/A |
 |2023 |N/A |N/A |N/A|
-|2022 |MATH1435 |N/A |N/A|
+|2022 |__MATH1435__ |N/A |N/A|
 |2021 |N/A |N/A |N/A|
-|2020 |Math 104∗, Math 136 |N/A |N/A|
-|2019 |Math 114, Math 136∗ |Non-Teaching term |Special Arrangements+|
-|2018 |Math 136∗, Math 235 |Math 225, Math 235∗, |Math 115∗, Math 235|
+|2020 |__Math 104__∗, Math 136 |N/A |N/A|
+|2019 |__Math 114__, Math 136∗ |Non-Teaching term |Special Arrangements+|
+|2018 |Math 136∗, Math 235 |__Math 225__, __Math 235__∗, |Math 115∗, Math 235|
 |2017 |Math 136∗, Math 237 |Non-Teaching term |Math 115∗ Math 237|
-|2016 |Math 135∗ Math 235∗, |Math 135 Math 135∗, |Math 235|
+|2016 |Math 135∗ |Math 235∗, __Math 135__ |Math 135∗, |Math 235|
 |2015 |Parental Leave |Math 135, Math 235 |Math 135∗|
-|2014 |Math 135† |Math 135, Math 235 |Math 135∗|
-|2013 |Math 135, Math 235 |Math 135∗ |Math 135∗|
-|2012 |Math 138, Math 235⋄ |Math 135, Math 235 |Math 135∗|
-|2011 |N/A |N/A |Math 127, SYDE 111|
+|2014 |Math 135† |__Math 135__, Math 235 |__Math 135__∗|
+|2013 |Math 135, Math 235 |__Math 135__∗ |__Math 135__∗|
+|2012 |Math 138, Math 235⋄ |__Math 135__, Math 235 |Math 135∗|
+|2011 |N/A |N/A |Math 127, __SYDE 111___|
 
+Notes:
+* Taught two sections of this course in this term.
+† Was given teaching relief for one course in order to revise the course notes for Math 135.
+⋄ Substituted for the last half of the course when the original instructor fell ill.
++ 6 units of teaching assistant duties instead of teaching two courses.
+• Courses that are in boldface were either coordinated by me, or were single section courses. In
+either case, I was responsible to preparing course outlines, assignments, quizzes, exams, etc., as well
+as for day-to-day running of the course.
 ## Course Materials in this Repo:
 
 Course material from my teaching at Conestoga College.
