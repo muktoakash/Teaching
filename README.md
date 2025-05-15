@@ -22,13 +22,13 @@
 |2011 |N/A |N/A |Math 127, __SYDE 111___|
 
 Notes:
-- * Taught two sections of this course in this term.
+- \* Taught two sections of this course in this term.
   
 - † Was given teaching relief for one course in order to revise the course notes for Math 135.
 
 - ⋄ Substituted for the last half of the course when the original instructor fell ill.
 
-- + 6 units of teaching assistant duties instead of teaching two courses.
+- \+ 6 units of teaching assistant duties instead of teaching two courses.
   
 - Courses that are in boldface were either coordinated by me, or were single section courses. In
 either case, I was responsible to preparing course outlines, assignments, quizzes, exams, etc., as well
