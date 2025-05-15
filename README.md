@@ -17,9 +17,9 @@
 |2016 |Math 135∗ |Math 235∗, __Math 135__ |Math 135∗, |Math 235|
 |2015 |Parental Leave |Math 135, Math 235 |Math 135∗|
 |2014 |Math 135† |__Math 135__, Math 235 |__Math 135__ ∗|
-|2013 |Math 135, Math 235 |__Math 135__∗ |__Math 135__ ∗|
+|2013 |Math 135, Math 235 |__Math 135__ ∗ |__Math 135__ ∗|
 |2012 |Math 138, Math 235⋄ |__Math 135__, Math 235 |Math 135∗|
-|2011 |N/A |N/A |Math 127, __SYDE 111___|
+|2011 |N/A |N/A |Math 127, __SYDE 111__|
 
 Notes:
 - \* Taught two sections of this course in this term.
