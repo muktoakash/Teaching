@@ -1,4 +1,27 @@
 # Teaching
+
+## Snapshot:
+
+### List of Courses Taught
+| Year | Winter | Spring | Fall |
+| --- | ------- | ------ | ---- |
+| 2024 | COMP1631 | N/A | N/A |
+2023 N/A N/A N/A
+2022 MATH1435 N/A N/A
+2021 N/A N/A N/A
+2020 Math 104∗, Math 136 N/A N/A
+2019 Math 114, Math 136∗ Non-Teaching term Special Arrangements+
+2018 Math 136∗, Math 235 Math 225, Math 235∗, Math 115∗, Math 235
+2017 Math 136∗, Math 237 Non-Teaching term Math 115∗ Math 237
+2016 Math 135∗ Math 235∗, Math 135 Math 135∗, Math 235
+2015 Parental Leave Math 135, Math 235 Math 135∗
+2014 Math 135† Math 135, Math 235 Math 135∗
+2013 Math 135, Math 235 Math 135∗ Math 135∗
+2012 Math 138, Math 235⋄ Math 135, Math 235 Math 135∗
+2011 N/A N/A Math 127, SYDE 111
+
+## Course Materials in this Repo:
+
 Course material from my teaching at Conestoga College.
 
 ## Courses included here:
