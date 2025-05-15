@@ -1,8 +1,6 @@
 # Teaching
 
-## Snapshot:
-
-### List of Courses Taught
+## List of Courses Taught
 | Year | Winter | Spring | Fall |
 | --- | ------- | ------ | ---- |
 |2025 | N/A | __MATH73235__    |     |
