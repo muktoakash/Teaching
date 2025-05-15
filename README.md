@@ -1,5 +1,5 @@
 # Teaching
-Course material from my teaching
+Course material from my teaching at Conestoga College.
 
 ## Courses included here:
 - ### COMP1631: Advanced Spreadsheets
@@ -36,3 +36,62 @@ This course is divided between advanced topics selected from calculus, statistic
 See detailed [course outline](/MATH73235/MATH73235/Course_Outline-MATH73235.html).
 
 Note: I am currently revising this course outline to better align with program outcomes and the CEAB attribute requirements.
+
+---
+Other courses that I have taught:
+
+- ### MATH 104 Introductory Calculus for Arts and Social Science
+An introduction to applications of calculus in business, the behavioural sciences, and the social sciences.
+The models studied will involve polynomial, rational, exponential and logarithmic functions. The major
+concepts introduced to solve problems are rate of change, optimization, growth and decay, and integration.
+
+- ### MATH 114 Linear Algebra for Science
+Vectors in 2- and 3-space and their geometry. Linear equations, matrices and determinants. Introduction
+to vector spaces. Eigenvalues and diagonalization. Applications. Complex numbers.
+
+- ### MATH 115 Linear Algebra for Engineering
+Linear equations, matrices and determinants. Introduction to vector spaces. Eigenvalues and diagonal-
+ization. Applications. Complex numbers.
+
+- ### MATH 127 Calculus 1 for the Sciences
+Functions of a real variable: powers, rational functions, trigonometric, exponential and logarithmic func-
+tions, their properties and inverses. Intuitive discussion of limits and continuity. Definition and interpre-
+tation of the derivative, derivatives of elementary functions, derivative rules and applications. Riemann
+sums and other approximations to the definite integral. Fundamental theorems and antiderivatives; change
+of variable. Applications to area, rates, average value.
+
+- ### MATH 135 Algebra for Honours Mathematics
+An introduction to the language of mathematics and proof techniques through a study of the basic
+algebraic systems of mathematics: the integers, the integers modulo n, the rational numbers, the real
+numbers, the complex numbers and polynomials.
+
+- ### MATH 136 Linear Algebra 1 for Honours Mathematics
+Systems of linear equations, matrix algebra, elementary matrices, computational issues. Real n-space,
+vector spaces and subspaces, basis and dimension, rank of a matrix, linear transformations, and matrix
+representations. Determinants, eigenvalues and diagonalization, applications.
+
+- ### MATH 138 Calculus 2 For Honours Mathematics
+Introduction to the Riemann integral and approximations. Antiderivatives and the Fundamental theorem
+of calculus. Change of variables, Methods of integration. Applications of the integral. Improper integrals.
+Linear and separable differential equations and applications. Tests for convergence for series. Binomial
+series, Functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable
+topics are illustrated using computer software.
+
+- ### MATH 225 Applied Linear Algebra 2
+Vector spaces. Linear transformations and matrices. Inner products. Eigenvalues and eigenvectors.
+Diagonalization. Applications.
+
+- ### MATH 235 Linear Algebra 2 for Honours Mathematics
+Orthogonal and unitary matrices and transformations. Orthogonal projections, Gram-Schmidt procedure,
+best approximations, least-squares. Inner products, angles and orthogonality, orthogonal diagonalization,
+singular value decomposition, applications.
+
+- ### MATH 237 Calculus 3 for Honours Mathematics
+Calculus of functions of several variables. Limits, continuity, differentiability, the chain rule. The gradient
+vector and the directional derivative. Taylor’s formula. Optimization problems. Mappings and the
+Jacobian. Multiple integrals in various co-ordinate systems.
+
+- ### MATH 1435 Math Fundamentals
+This course will provide the student with learning tools that will help them to improve their basic math-
+ematic skills and also develop reasoning and problem solving skills. The student will also develop an
+understanding of the mathematics used in the woodworking industry
