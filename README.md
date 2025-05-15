@@ -33,6 +33,6 @@ This course is divided between advanced topics selected from calculus, statistic
 8. Apply graph theory to network flow problems and assignment problems
 9. Explain and formulate methods of mathematical proofs such as direct proof, proof by contraposition, and proof by contradiction.
 
-See detailed [course outline](/MATH73235/'Course Outline - MATH73235 (101) - Advanced Topics in Mathematics.html').
+See detailed [course outline](/MATH73235/MATH73235/Course_Outline-MATH73235.html).
 
 Note: I am currently revising this course outline to better align with program outcomes and the CEAB attribute requirements.
