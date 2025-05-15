@@ -5,7 +5,8 @@
 ### List of Courses Taught
 | Year | Winter | Spring | Fall |
 | --- | ------- | ------ | ---- |
-| 2024 | COMP1631 | N/A | N/A |
+|2025 | N/A | MATH73235    |     |
+|2024 | COMP1631 | N/A | N/A |
 |2023 |N/A |N/A |N/A|
 |2022 |MATH1435 |N/A |N/A|
 |2021 |N/A |N/A |N/A|
