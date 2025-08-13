@@ -24,10 +24,10 @@ These are my notes from reading the titular book by [Campbell et all](#cite). Th
 ### Professional Portfolio
 **A portfolio is an organized, goal-driven documentation of your professional growth and competence in the complex act called teaching**
   - collection of documents that provides tangible evidence of
-  - - the wide range of performances
-  - - essential knowledge
-  - - critical dispositions
-  - - teaching experiences
+   - the wide range of performances
+   - essential knowledge
+   - critical dispositions
+   - teaching experiences
 - tool that enables you to make sense out of myriad experiences
 - bring into focus a clear picture of yourself as a growing, changing professional
 - can be a convincing, effective vehicle to demonstrate to others in a meaningful way the skills and knowledge you have gained.
