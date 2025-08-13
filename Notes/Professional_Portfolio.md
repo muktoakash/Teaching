@@ -30,10 +30,41 @@ These are my notes from reading the titular book by [Campbell et all](#cite). Th
     - teaching experiences
 - tool that enables you to make sense out of myriad experiences
 - bring into focus a clear picture of yourself as a growing, changing professional
-- can be a convincing, effective vehicle to demonstrate to others in a meaningful way the skills and knowledge you have gained.
+- can be a convincing, effective vehicle to demonstrate to others in a meaningful way the skills and knowledge you have gained
+- two types:
+    - **working protfolio**: ongoing systematic collection of selected work in courses and evidence of cummunity activities
+    - **presentation portfolio**: samples of work that best reflect your competence, individuality, and creativity as a professional educator
+ 
+  A portifolio can
+- provide a record of quantitative and qualitative growth over time
+- gain a vision of the big picture: understand who you want to be as a professional
+- empower you to assume more control over your own future learning
+- determine the most appropriate teaching experiences for you
+- set realistic and meaningful goals for yourself.
 
-  
+#### Working Portfolio
+**A working portfolio contains unabridged versions of the documents carefully selected to portray your professional growth**
 
+#### Presentation Portfolio
+**A presentation portfolio is compiled for the expressed purpose of giving others an effective and easy-to-read portrait of your professional competence**
+- selective and streamlined
+- less is more
+- well edited and annotated
+- sample pages only
+All documents in a presentation portfolio should be preceded by an explanation of the importance or relevance of each document.
+
+### Organization and Inclusion
+
+**An artifact is a tangible evidence of knowledge that is gained, skills that are mastered, values that are clarified, or dispositions and attitudes that are characteristic of you.**
+
+- artifacts that represent your growth and very best professional work should be inclcuded
+- must have a system of organization that is understandable and meaningful
+- choose or adat a set of goals that makes sense to you
+- include artifacts that demonstrate that you have met this standard
+- lesson and unit plans are pieces of evidence that provide strong indications of
+    - your ability to plan curriculum
+    - use a variety of teaching strategies
+- video of your teaching indicate your ability to manage and motivate a group of students
 
 
 # <a name="cite">Citation</a>: 
